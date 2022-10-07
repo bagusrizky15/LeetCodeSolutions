@@ -43,7 +43,7 @@ There are 2 quick steps to contribute to this project:
 
 ### 1. Answer LeetCode or HackeRank Questions 
 * Open folder as your question choosed
-* Create file, rename it with your programming language use ex. Kotlin.txt
+* Create file, rename it with your name[dot]extensions file ex. bagusrizky.kt
 * Save it
 
 ### 2. Write your name as Contributors
