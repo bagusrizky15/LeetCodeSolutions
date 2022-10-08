@@ -6,3 +6,6 @@
 
 #### Name: [Bagus Rizky](https://github.com/bagusrizky15/)
 - Solution Code: [Fizz Buzz/kotlin.txt]
+
+#### Name: [Firman Diatullah Guna Darma](https://github.com/vandarma27/)
+- Solution Code: [Fizz Buzz/darma.js]
