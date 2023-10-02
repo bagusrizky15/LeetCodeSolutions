@@ -16,7 +16,7 @@ You can use use this project to make your first contribution to an open source p
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/bagusrizky15/LeetCodeSolutions
 ```
 
 * Create a branch
